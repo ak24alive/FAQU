@@ -1,0 +1,2 @@
+# FAQU
+An online chatbot based FAQ service for the University which will talk to the user and respond to the queries of the users. The bot will use machine learning to get smarter overtime. It has an inbuilt spam detecting mechanism so any use of foul language will be dealt with and any malicious code can be simply omitted. The initial version doesn't deploy Machine Learning tactics but the chatbot will be able to answer queries using a generative model through NLP eventually.
