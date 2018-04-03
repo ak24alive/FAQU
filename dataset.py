@@ -108,3 +108,9 @@ Answer JEE/MAINS or 12[th].
                   '12th':"The JEE MAIN Counselling in JUET will be held in the end week of June.\nThe exact dates are not out yet.\nApplicant must have a minmum 60% aggregate in PCM."
                     }
        }
+ans={'fees':'All you need to know about fees is here:\nhttp://www.juet.ac.in/Admission/Fee.php\nPlease visit the link. Thankyou',
+     'fee':'All you need to know about fee is here:\nhttp://www.juet.ac.in/Admission/Fee.php\nPlease visit the link. Thankyou',
+     'course':'This link will take you to all the courses offered: http://www.juet.ac.in/Academic/Courses.php\nPlease visit the link. Thankyou',
+     'courses':'This link will take you to all the courses offered: http://www.juet.ac.in/Academic/Courses.php\nPlease visit the link. Thankyou',
+     'calendar':'Here\'s the link for the calendar of this semester:-\nhttp://www.juet.ac.in/Download/JUET-RAcademicCalenderEvenSem2018.pdf\nThe calendar for the next semester is not out yet.',
+     }
