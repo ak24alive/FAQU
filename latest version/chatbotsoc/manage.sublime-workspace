@@ -1,0 +1,381 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"get_client_ip"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"res",
+				"result_message"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"c",
+				"cin"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"s",
+				"strong\tTag"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"f",
+				"font-family"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"i",
+				"important"
+			],
+			[
+				"t",
+				"th\tTag"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"Title",
+				"title"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"bl",
+				"black"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"ps",
+				"position"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"b",
+				"button\tTag"
+			],
+			[
+				"m",
+				"margin-left"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"li",
+				"link\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Snippet: ",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: main()"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/Projects/chatbotSocket/chatbotsoc/chatbot_tutorial/kalu.py",
+		"/F/Projects/chatbotSocket/chatbotsoc/chatbot_tutorial/excel_test (1).py",
+		"/F/Projects/chatbotSocket/chatbotsoc/manage.py",
+		"/C/Users/Ansuman singh/Downloads/excel_test (1).py",
+		"/F/Projects/FAQU-master/FAQU-master/actions.py",
+		"/F/Projects/FAQU-master/FAQU-master/greetings.py",
+		"/F/Projects/chatbotSocket/chatbotsoc/chatbot_tutorial/templates/chatbot_tutorial/chatbot.html",
+		"/F/Projects/chatbotSocket/chatbotsoc/chatbot_tutorial/chatbot_phase3.py",
+		"/C/Users/Ansuman singh/Documents/cpp programs/gfgp.cpp",
+		"/C/Users/Ansuman singh/Documents/cpp programs/AprLongP2nSquare.cpp",
+		"/C/Users/Ansuman singh/Documents/cpp programs/input.txt",
+		"/C/Users/Ansuman singh/Documents/cpp programs/codejam1.cpp",
+		"/C/Users/Ansuman singh/Documents/cpp programs/seed.cpp",
+		"/C/Users/Ansuman singh/Documents/cpp programs/factl.cpp",
+		"/C/Users/Ansuman singh/Documents/cpp programs/alp1.cpp",
+		"/C/Users/Ansuman singh/Documents/cpp programs/smallNoWithXtrailingZero.cpp",
+		"/C/Users/Ansuman singh/Documents/cpp programs/binarysearch.cpp",
+		"/F/Projects/django-bot-server-tutorial-websockets/django-bot-server-tutorial-websockets/requirements.txt",
+		"/C/Users/Ansuman singh/Desktop/ans.txt",
+		"/H/NARCOS/drive f_04-18-2018 at 18_48_19.rsf",
+		"/F/Projects/3rdY/django-bot-server-tutorial-websockets/chatbot_tutorial/routing.py",
+		"/F/Projects/3rdY/django-bot-server-tutorial-websockets/chatbot_tutorial/views.py",
+		"/F/Projects/3rdY/django-bot-server-tutorial-websockets/manage.py",
+		"/F/Projects/3rdY/django-bot-server-tutorial-websockets/requirements.txt",
+		"/F/Projects/3rdY/django-bot-server-tutorial-websockets/chatbot_tutorial/consumers.py",
+		"/F/Projects/University Project/style.css",
+		"/F/Projects/University Project/4cr.html",
+		"/F/Projects/University Project/section.html",
+		"/F/Projects/University Project/marq.html",
+		"/F/Projects/University Project/marq.css",
+		"/F/Projects/University Project/calendar.html",
+		"/F/wamp64/www/index.php",
+		"/F/wamp64/www/assets/css/main.css",
+		"/F/wamp64/www/ajax.php",
+		"/F/wamp64/www/addsong.php",
+		"/F/wamp64/www/Sound Bound/ajax.php",
+		"/F/wamp64/www/Sound Bound/index.php",
+		"/F/wamp64/www/Sound Bound/connection.php",
+		"/F/wamp64/www/Sound Bound/addsong.php",
+		"/C/Users/Ansuman singh/Downloads/max.c",
+		"/F/intern/aj.js",
+		"/C/wamp/www/Sound Bound/index.php",
+		"/C/Users/Ansuman singh/Documents/cpp programs/mar18p5.cpp",
+		"/C/Users/Ansuman singh/Documents/cpp programs/mar18p4.cpp",
+		"/C/Users/Ansuman singh/Desktop/myjavascript.js",
+		"/C/Users/Ansuman singh/Desktop/jsone.html",
+		"/C/Users/Ansuman singh/Downloads/ujjj.txt",
+		"/C/Users/Ansuman singh/Downloads/sunidhi.txt",
+		"/F/Projects/University Project/index.html"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "manage.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
